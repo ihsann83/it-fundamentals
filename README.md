@@ -1,2 +1,2 @@
 # it-fundamentals
-It is for IT Fundamentals
+It is for IT Fundamentals course
